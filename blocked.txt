@@ -11,6 +11,7 @@ s95.skladchina.biz
 s94.skladchina.biz
 s92.skladchina.biz
 s90.skladchina.biz
+s99.skladchina.biz
 s88.skladchina.biz
 s86.skladchina.biz
 s84.skladchina.biz
