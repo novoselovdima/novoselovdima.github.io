@@ -56,3 +56,4 @@ s6.skladchina.biz
 s4.skladchina.biz
 s2.skladchina.biz
 skladchina.in
+skladchina.biz
