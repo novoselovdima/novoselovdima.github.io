@@ -59,6 +59,9 @@ s4.skladchina.biz
 s2.skladchina.biz
 skladchina.in
 skladchina.biz
+m99.skladchina.biz
+m98.skladchina.biz
+m97.skladchina.biz
 m96.skladchina.biz
 m95.skladchina.biz
 m94.skladchina.biz
